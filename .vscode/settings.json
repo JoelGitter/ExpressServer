@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/56d3a1fe-7c81-4bfd-bf87-361aaa1e0f5e/resourceGroups/VstsRG-ExpressApp1-1a11/providers/Microsoft.Web/sites/ExpressApp11",
+    "appService.deploySubpath": "."
+}
